@@ -1,3 +1,2 @@
-# CCC
-CCC solutions
+# CCC solutions
 (CCC: Canadian Computing Competition)
